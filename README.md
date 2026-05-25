@@ -45,5 +45,5 @@ The system is built on a robust local network architecture. All IoT devices and 
 ## ⚙️ How to Run the Simulation
 1. Clone this repository to your local machine.
 2. Ensure you have **Cisco Packet Tracer** installed.
-3. Open the `Projenin_Adi.pkt` file. *(Note: Replace with your actual .pkt file name)*
+3. Open the `Smart-Atadium-Project.pkt` file.
 4. Open the Smartphone device in the simulation, navigate to the IoT Monitor, and interact with the stadium systems in real-time. You can also view the individual Python logic inside the SBC/MCU programming tabs.
